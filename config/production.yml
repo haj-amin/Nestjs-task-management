@@ -1,0 +1,4 @@
+server:
+  origin: www.google.com
+db: 
+  synchronize: false
